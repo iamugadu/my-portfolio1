@@ -17,6 +17,15 @@ h1, h2, h3 {
     color: #38bdf8;
 }
 
+h1 {
+    font-weight: 700;
+}
+p{
+    font-weight: 300;
+}
+
+
+
 section {
     padding: 4rem 0;
     max-width: 800px;
